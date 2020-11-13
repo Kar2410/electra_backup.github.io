@@ -1,0 +1,92 @@
+.dark-mode1 {
+    background-color:#fff !important;
+    color: #eee;
+    border:none;
+    margin:none;
+}
+.light-mode .navbar {
+    background-color:#fff;
+    
+}
+.light-mode .navbar-brand h1 {
+color: black !important;
+}
+.dark-mode .dark-mode1{
+    background-color: black !important;
+    color: #eee;
+}
+.dark-mode  #navbar li {
+    color: #fff !important;
+}
+.dark-mode #about {
+    background-color:black !important;
+}
+.dark-mode .container-fluid {
+    background-color: rgba(34, 32, 34, 0) !important;
+}
+.dark-mode main {
+    background-color: rgba(34, 32, 34, 0) !important;
+}
+}
+.dark-mode .image-holder {
+    background-color: black !important;
+}
+.dark-mode #about-ul  {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+.dark-mode .text-block {
+    background-color: rgb(17, 17, 17) !important;
+}
+.dark-mode .about {
+    background-color: #111;
+}
+
+.dark-mode .image-holder {
+    background-color: black !important;
+}
+.dark-mode .navbar {
+    background-color: black;
+    color: #eee !important;
+}
+.dark-mode .navbar-brand h1 {
+color: #eee !important;
+}
+.dark-mode #features {
+    background-color: black;
+}
+.dark-mode .container-fluid {
+    background-color: rgba(34, 32, 34, 0) !important;
+}
+.dark-mode #about-ul  {
+    background-color: rgba(0, 0, 0, 0) !important;
+}
+
+.dark-mode #news {
+    background-color: black;
+}
+
+.dark-mode .text-block {
+    background-color: rgb(17, 17, 17) !important;
+}
+.dark-mode .about {
+    background-color: #3030 !important;
+}
+.dark-mode .timeline-panel {
+    background-color: #3030;
+}
+.dark-mode .timeline-panel {
+    background-color: #3030 !important
+}
+.dark-mode #process {
+    background-color: black;
+}
+
+.dark-mode footer {
+    background-color:black !important;
+}
+.dark-mode #footer {
+    background-color:black !important;
+}
+.dark-mode #bottom-footer {    
+    background-color:black !important;
+}
